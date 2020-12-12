@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChessProject",
+            "request": "launch",
+            "mainClass": "ChessProject",
+            "projectName": "ChessProject_a853ecd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ChessProject<ChessProject_94af482e>",
+            "request": "launch",
+            "mainClass": "ChessProject",
+            "projectName": "ChessProject_94af482e",
+            "console": "integratedTerminal"
+        }
+    ]
+}
